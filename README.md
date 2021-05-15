@@ -3,10 +3,10 @@ My website portfolio
 
 ## Screenshots:
 ### Computer View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio.PNG)
+![alt text](https://github.com/mukund20/Portfolio/blob/master/Portfolio.PNG)
 
 ### Mobile View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio_mobile.PNG)
+![alt text](https://github.com/mukund20/Portfolio/blob/master/portfolio1.PNG)
 
 ## Author
-* Mohd. Ali Solanki (https://youtube.com/AliSolanki)
+* Mukund Tolay
